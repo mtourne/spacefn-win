@@ -1,3 +1,13 @@
+This Fork
+=========
+
+Fork or the original lydell/spacefn-win
+
+    * upgrade dual library in submodule to latest version
+    * some tweaks with memory (unclear if useful)
+    * removed inclusion of dual/defaults so not every single key is a combo key. seems to perform better.
+    * defaults to CHTN for directions which are respectively IJKL in dvorak
+
 Overview
 ========
 
